@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_color">
+        <item>기본 모드(화이트)</item>
+        <item>다크 모드</item>
+        <item>블루라이트 모드</item>
+    </string-array>
+    <string-array name="my_color_value">
+        <item>#ffffff</item>
+        <item>#CC000000</item>
+        <item>#B3ffff00</item>
+    </string-array>
+    <string-array name="my_text_color">
+        <item>기본 모드(검정)</item>
+        <item>초록</item>
+        <item>파랑</item>
+        <item>빨강</item>
+    </string-array>
+    <string-array name="my_textColor_value">
+        <item>#000000</item>
+        <item>#015048</item>
+        <item>#0a7a95</item>
+        <item>#ff0000</item>
+    </string-array>
+</resources>

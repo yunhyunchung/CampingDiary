@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815202004401",
+    "project_id": "campingmedicineapp",
+    "storage_bucket": "campingmedicineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815202004401:android:076b6174dc63840e9a6190",
+        "android_client_info": {
+          "package_name": "com.example.campingmedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815202004401-m1d2of0u18isnc2eb1k5jtffpbtvoqus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campingmedicine",
+            "certificate_hash": "16b920b8b5cf420619dce4f9284eadc28bdd3459"
+          }
+        },
+        {
+          "client_id": "815202004401-gctgvk35beqgha4ipcl8m0nbc57fsb4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABc5-iXcxPoAPafK6ufN7rS7oWKtqhSlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815202004401-gctgvk35beqgha4ipcl8m0nbc57fsb4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

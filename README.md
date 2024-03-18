@@ -27,6 +27,11 @@
 - 배경색 변경: 홈 화면의 배경색을 변경한다. (화이트, 다크, 블루라이트(yellow) 모드)
 
 ## 전체 FLOW
+![1.jpg](https://github.com/yunhyunchung/CampingDiary/blob/main/flow%20img/1.jpg)
+![2.jpg](https://github.com/yunhyunchung/CampingDiary/blob/main/flow%20img/2.jpg)
+![3.jpg](https://github.com/yunhyunchung/CampingDiary/blob/main/flow%20img/3.jpg)
+![4.jpg](https://github.com/yunhyunchung/CampingDiary/blob/main/flow%20img/4.jpg)
+![5.jpg](https://github.com/yunhyunchung/CampingDiary/blob/main/flow%20img/5.jpg)
 
 
 
